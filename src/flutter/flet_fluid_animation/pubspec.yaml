@@ -1,0 +1,25 @@
+name: flet_fluid_animation
+description: Flet FletFluidAnimation control
+repository: https://github.com/MyGithubAccount/flet-fluid-animation/src/flutter/flet_fluid_animation
+version: 0.1.0
+homepage: https://github.com/MyGithubAccount/flet-fluid-animation
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flet:
+    git:
+        url: https://github.com/flet-dev/flet.git
+        path: packages/flet
+        ref: v1
+  fluid_animations: ^1.1.0
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  
