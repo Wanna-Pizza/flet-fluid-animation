@@ -1,4 +1,7 @@
 # flet-fluid-animation
+
+## NOT FINISHED, NEED SOME WORK 
+
 FletFluidAnimation control for Flet
 
 ## Installation
